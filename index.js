@@ -13,7 +13,7 @@ function reloadModule(moduleName){
 
 
 var pgp = require('pg-promise')(/*options*/)
-var db = pgp('postgres://test_user:test_user@localhost:5432/test')
+var db = pgp('postgres://ihdlglbqaahczg:5e100d006ac33c4b8ca6d7043fd38680c652727bb433b1b2b7023a3a27704ba4@ec2-107-20-185-27.compute-1.amazonaws.com:5432/ddnnaht31l7nnv')
 
 let arr1 = new Array();
 let htm=''
