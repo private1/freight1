@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "dependencies": {
     "body-parser": "^1.8.1",
-    "express": "^4.9.0"
+    "express": "^4.9.0",
+    "pg-promise": "*"
   },
   "scripts": {
     "start": "node index.js"
