@@ -5,7 +5,7 @@
     "body-parser": "^1.8.1",
     "express": "^4.9.0",
     "pg-promise": "*"
-  },
+  },  
   "scripts": {
     "start": "node index.js"
   }
